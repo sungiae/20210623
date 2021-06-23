@@ -53,6 +53,8 @@ public class 자바메소드_3 {
 		}
 	}
 	
+// 4. 리턴형 / 매개변수
+//      X       X  (드물다) ==> 데이터 수집
 // 데이터 수집 ==> insert, XML... (출력)
 	static void dataFind()
 	{
@@ -81,6 +83,8 @@ public class 자바메소드_3 {
 //      X       O  (많이씀) ==> 구구단(한 단) => 메소드 자체 출력
 		gugudan(5);
 
+// 4. 리턴형 / 매개변수
+//      X       X  (드물다) ==> 데이터 수집
 // 데이터 수집 ==> insert, XML... (출력)
 		dataFind();
 	}
